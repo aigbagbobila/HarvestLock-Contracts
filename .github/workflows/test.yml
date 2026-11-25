@@ -1,4 +1,5 @@
 name: contracts
+# Keep the workflow registration fresh after base-branch synchronization.
 
 on:
   push:
